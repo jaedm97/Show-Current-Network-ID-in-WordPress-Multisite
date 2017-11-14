@@ -1,4 +1,4 @@
-# Show Blog ID in Admin Bar for WordPress Multisite
+# Show Current Network ID in WordPress Multisite
 This code will show the Current WordPress Blog ID on WordPress admin menu bar
 
 ### How to use
