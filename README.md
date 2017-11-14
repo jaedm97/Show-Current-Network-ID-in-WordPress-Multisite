@@ -14,3 +14,9 @@ Just cope the code from here and paste this on your active theme's functions.php
 		) );
 	}
 	add_action( 'admin_bar_menu', 'show_wordpress_blog_id', 999 );
+
+	
+### Screenshots
+
+#### How it looks
+![alt text](https://github.com/jaedm97/Show-Current-Network-ID-in-WordPress-Multisite/blob/master/screenshot.jpg "Code in Action")
